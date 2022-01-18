@@ -21,7 +21,7 @@
     "ganache-core": "^2.5.3",
     "html-webpack-plugin": "^3.2.0",
     "mocha": "^6.0.2",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^3.1.1",
     "require-nocache": "^1.0.0",
     "semaphore-merkle-tree": "1.0.6",
     "snarkjs": "0.1.17",
